@@ -1,16 +1,33 @@
+# Jayden 
+i an a student at [Waimea Collage](https//waimea.school.nz) in NZ 
 
+## interests
 
-### Hi there 👋☻
-**waimea-jmace-300DTD/waimea-jmace-300DTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+at home i like 
+- playing games 
+- playing the saxophone
 
-Here are some ideas to get you started:
+## My Morning Routine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. wake up 
+2. put on my school uneform 
+3. eat 
+4. watch somthing 
+5. make lunch 
+6. leave
+
+## Code
+
+I like HTML 
+
+```html
+<head>
+    <title>wow!</title>
+</head>
+```
+
+## bird 
+![alt text](334289821-Baltimore_Oriole-Matthew_Plante.jpg)
+![alt text](night-sky-stars-clouds-scenery-landscape-anime-digital-art-4k-wallpaper-uhdpaper.com-768@0@i.jpg)
+
+##
